@@ -1,5 +1,3 @@
-
-
 <div align="center">
     <img src="https://www.gravatar.com/avatar/e1949921bd20237e8332481afe6b1554?s=100" width="100">
     <h1>
