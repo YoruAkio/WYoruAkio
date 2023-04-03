@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://www.gravatar.com/avatar/e1949921bd20237e8332481afe6b1554?s=100" width="100">
     <h1>
-        <strong>Yoru.Airi.dev</strong>
+        <strong>YoruAkio</strong>
     </h1>
     <img src="https://img.shields.io/badge/HTML5-61DBFB?logo=html5&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/YoruAkio/WYoruAkio.svg?logo=github&style=for-the-badge">
